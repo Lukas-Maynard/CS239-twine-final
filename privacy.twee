@@ -1,0 +1,216 @@
+:: StoryTitle
+privacy
+
+
+:: StoryData
+{
+  "ifid": "8AD63D43-9558-4EFD-8880-22A54592D2B5",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Accept all cookies {"position":"1175,325","size":"100,100"}
+You accept and start reading. The next day, your feed is full of stories reinforcing the same perspective. You no longer getting both sides of stories and just hearing what you have been wanting to hear.
+
+Is this the filter bubble effect?
+
+* [[Dig deeper into how tracking works]]
+* [[Ignore and move on]]
+
+
+:: Allow access {"position":"525,250","size":"100,100"}
+You tap “allow.” Hours later, you notice ads about topics you just spoke about privately.
+
+You begin to suspect something's up.
+
+* [[Keep Scrolling]] 
+* [[Check app permissions]]
+
+
+:: Browse the news {"position":"1075,100","size":"100,100"}
+You open a news site, but it’s blocked until you accept cookies and tracking.
+
+Do you:
+* [[Accept all cookies]]
+* [[Customize cookie preferences]]
+
+
+:: Check app permissions {"position":"475,475","size":"100,100"}
+You’re shocked at how much access they have. You start revoking permissions.
+
+* [[You digitally disappear]]
+
+
+:: Check privacy settings {"position":"125,325","size":"100,100"}
+You’re shocked at how many apps have background access. You start revoking permissions.
+
+* [[You digitally disappear]]
+
+
+:: Check your email {"position":"775,175","size":"100,100"}
+You have an unread message with the subject line: "IMPORTANT: Account Issue!"
+
+Do you:
+* [[Open the email]]
+* [[Mark as spam]]
+
+
+:: Customize cookie preferences {"position":"1350,100","size":"100,100"}
+You take a moment to disable tracking cookies. Some features break, but you feel better and your data is even more safe esspecially on sketchy sites. You made good choices.
+
+Go back to start to try again:
+
+* [[End]]
+
+
+:: Delete email and continue browsing {"position":"950,675","size":"100,100"}
+You are not helping to solve the problem and actively ignoring it?? Insane how you function as a human. You should be increasing your security 
+
+You should feel awful and should rethink everything especially your IQ.
+
+* [[End]]
+
+
+
+:: Deny access {"position":"275,125","size":"100,100"}
+You deny access and continue scrolling. Ads still appear—but they’re more generic.
+
+You feel a little more in control.
+
+* [[Check privacy settings]]
+* [[Log off and do something else]]
+
+
+:: Dig deeper into how tracking works {"position":"1375,400","size":"100,100"}
+You learn about fingerprinting, cross-site tracking, and targeted advertising. You feel empowered—and a little paranoid.
+
+* [[Wipe your cookie data]]
+* [[You stop careing and continue]]
+
+
+:: Enable 2FA {"position":"1125,600","size":"100,100"}
+You add two-factor authentication to all your accounts. It’s a small hassle, but it feels worth it.
+
+* [[Explore more ways to protect privacy]]
+* [[Log off for now]]
+
+
+:: End {"position":"1650,25","size":"100,100"}
+Thanks for playing!
+
+Mundane choices can impact your personal privacy. Think a little more critically about your digital habits.
+
+**Want to restart?** [[Start]]
+
+
+:: Enter password/phone number {"position":"750,675","size":"100,100"}
+Are you serious.... you give them in information and now they can login with either the password or phone number. You are really bad at this.
+
+You should feel awful and should rethink everything especially your IQ.
+
+* [[End]]
+
+
+
+:: Explore more ways to protect privacy {"position":"1250,725","size":"100,100"}
+You are making great steps towards your security and are actively looking for more protection.
+
+Congratulations you are making EVEN better choices with your data and privacy.
+* [[End]]
+
+
+:: Google the email address first {"position":"925,550","size":"100,100"}
+You investigate and find multiple warnings that this sender is a scammer. You dodge a bullet.
+
+* [[Enable 2FA]]
+* [[Delete email and continue browsing]]
+
+
+:: Ignore and move on {"position":"1225,475","size":"100,100"}
+Wow your being an idiot ! Even after learning all the downsides you are being hazardous with your data.
+
+Go back to start to go again but make better choices:
+
+* [[End]]
+
+
+:: Keep Scrolling {"position":"625,425","size":"100,100"}
+You accept access and continue scrolling. Are you for real stop being a sheep and take control of your data. Ads will become even more targeted and you keep giving your data out for free.
+
+You should feel awful and rethink what you are giving out for free.
+
+* [[End]]
+
+
+
+:: Log off and do something else {"position":"325,325","size":"100,100"}
+Congrats you made a good step in the right direction, now go live your live to the fullest!
+Just make sure to check every permission you can.
+
+* [[End]]
+
+
+:: Log off for now {"position":"1100,750","size":"100,100"}
+You are making great steps towards your security you should look at more options but you are doing well!
+
+Congratulations you are making better choices with your data and privacy.
+* [[End]]
+
+
+:: Mark as spam {"position":"950,200","size":"100,100"}
+Congradulations you have dodged a scary email that could end up taking your data for the worse!
+
+Go back to start to try again:
+
+* [[Start]]
+
+
+:: Open the email {"position":"750,550","size":"100,100"}
+You actually opened that?? It's a phishing scam! You're asked to input your password or phone number to "verify" your account.
+
+Do you:
+* [[Enter password/phone number]]
+* [[Google the email address first]]
+
+
+
+
+:: Scroll through social media {"position":"475,75","size":"100,100"}
+You open your favorite app. A pop-up asks for access to your microphone, even though you're just browsing.
+
+Do you:
+* [[Allow access]]
+* [[Deny access]]
+
+
+:: Start {"position":"775,0","size":"100,100"}
+You're an average internet user. You're about to start your day online but today, every click might have consequences.
+
+Do you want to:
+* [[Scroll through social media]]
+* [[Check your email]]
+* [[Browse the news]]
+
+
+:: Wipe your cookie data {"position":"1375,525","size":"100,100"}
+You wipe your cookie data, start using require cookies only, and stop getting such targed ads 
+
+Congratulations you are making better choices with your data and privacy, now go live your live to the fullest!
+
+* [[End]]
+
+
+:: You digitally disappear {"position":"150,550","size":"100,100"}
+You dont actually disappear but Congratulations you are making better choices with your data and privacy, you are making it harder for others to obtain your personal data.
+* [[End]]
+
+
+:: You stop careing and continue {"position":"1500,525","size":"100,100"}
+Congratulations your being dumb! Even after learning all the downsides you are being a bystander.
+
+Go back to start to go again but make better choices:
+
+* [[End]]
